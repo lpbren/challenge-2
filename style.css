@@ -53,18 +53,14 @@ p {
 .hero {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    margin-bottom: 0px;
+    background-image: url("...\Pictures\34.JPG");
     background-size: cover;
     background-position: center;
-}
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 
 }
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -202,6 +198,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 7px;
-    color: grey;
+    font-size: 20px;
 }
